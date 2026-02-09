@@ -10,4 +10,4 @@ FEATURES
 -  Transaction
   
 To Compile: g++ -o atm atm_system.cpp 
-To Run: ./atm 
+To Run: ./atm
